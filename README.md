@@ -28,9 +28,9 @@ This repository contains code and data for analyzing the USD - INR conversion ra
    ```
 
 ## Usage
-Download the data file *INR-USD.csv* and place it in the project directory.
+Download the data file **INR-USD.csv** and place it in the project directory.
 
-Run the Currenyc *Exchange Rate Forecasting.ipynb* notebook to perform the analysis. Make sure to update the file paths if necessary.
+Run the Currenyc **Exchange Rate Forecasting.ipynb** notebook to perform the analysis. Make sure to update the file paths if necessary.
 
 The notebook will generate various plots and visualizations, including the conversion rate over the years, yearly growth, monthly growth, and time series forecasting.
 
