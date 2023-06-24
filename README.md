@@ -18,7 +18,7 @@ This repository contains code and data for analyzing the USD - INR conversion ra
 2. Change to the project directory:
 
    ```bash
-   Currency-Exhange-Rate-Forecasting
+   cd Currency-Exhange-Rate-Forecasting
    ```
    
 3. Install the required libraries
