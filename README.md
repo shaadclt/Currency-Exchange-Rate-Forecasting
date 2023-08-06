@@ -1,6 +1,6 @@
 # Currency Exchange Rate Forecasting
 
-This repository contains code and data for analyzing the USD - INR conversion rate over the years. The analysis includes data visualization, growth analysis, seasonal decomposition, and time series forecasting using SARIMA.
+This repository contains code and data for analyzing the USD - INR conversion rate over the years. The analysis includes data visualization, growth analysis, seasonal decomposition and time series forecasting using SARIMA.
 
 ## Prerequisites
 
